@@ -1,0 +1,14 @@
+C:\Users\arja0420\source\repos\Spel\Spel\bin\Debug\net6.0\Spel.exe
+C:\Users\arja0420\source\repos\Spel\Spel\bin\Debug\net6.0\Spel.deps.json
+C:\Users\arja0420\source\repos\Spel\Spel\bin\Debug\net6.0\Spel.runtimeconfig.json
+C:\Users\arja0420\source\repos\Spel\Spel\bin\Debug\net6.0\Spel.dll
+C:\Users\arja0420\source\repos\Spel\Spel\bin\Debug\net6.0\Spel.pdb
+C:\Users\arja0420\source\repos\Spel\Spel\obj\Debug\net6.0\Spel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arja0420\source\repos\Spel\Spel\obj\Debug\net6.0\Spel.AssemblyInfoInputs.cache
+C:\Users\arja0420\source\repos\Spel\Spel\obj\Debug\net6.0\Spel.AssemblyInfo.cs
+C:\Users\arja0420\source\repos\Spel\Spel\obj\Debug\net6.0\Spel.csproj.CoreCompileInputs.cache
+C:\Users\arja0420\source\repos\Spel\Spel\obj\Debug\net6.0\Spel.dll
+C:\Users\arja0420\source\repos\Spel\Spel\obj\Debug\net6.0\refint\Spel.dll
+C:\Users\arja0420\source\repos\Spel\Spel\obj\Debug\net6.0\Spel.pdb
+C:\Users\arja0420\source\repos\Spel\Spel\obj\Debug\net6.0\Spel.genruntimeconfig.cache
+C:\Users\arja0420\source\repos\Spel\Spel\obj\Debug\net6.0\ref\Spel.dll
